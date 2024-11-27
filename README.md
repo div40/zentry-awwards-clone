@@ -10,4 +10,4 @@ Cloning Awwwards winning website - Zentry
 
 ### Original Website
 
-[Zentry](https://zentry.com/) ~ must visit!!
+All the credits goes to [Zentry](https://zentry.com/) ~ must visit!!
