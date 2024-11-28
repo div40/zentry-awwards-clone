@@ -1,7 +1,13 @@
 import React from "react";
+import Hero from "./components/Hero";
 
 const App = () => {
-  return <div className="text-green-500">App</div>;
+  return (
+    <main className="relative w-screen min-h-screen overflow-x-hidden">
+      <Hero />
+      <section className="z-0 min-h-screen bg-blue-50" />
+    </main>
+  );
 };
 
 export default App;
